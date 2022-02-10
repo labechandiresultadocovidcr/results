@@ -1,6 +1,6 @@
 [![Coming Soon Preview](https://assets.startbootstrap.com/img/screenshots/themes/coming-soon.png)](https://startbootstrap.github.io/startbootstrap-coming-soon/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-coming-soon/)**
+**[View Live Preview](logo.png)**
 
 
 
